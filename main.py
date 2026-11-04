@@ -1,1 +1,5 @@
-print("Hello world")
+a=10
+b=9
+
+print(a*b)
+#answers 90
